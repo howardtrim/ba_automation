@@ -1,0 +1,27 @@
+Level,Text
+C_Level,VP of
+C_Level,Head of
+C_Level,Senior Director
+C_Level,Director
+C_Level,CTO
+C_Level,COO
+C_Level,CEO
+C_Level,CIO
+C_Level,CDO
+C_Level,Managing Director
+C_Level,CFO
+C_Level,Owner
+C_Level,General Manager
+Mid Manager,Director
+Mid Manager,Manager
+Mid Manager,Senior Manager
+Mid Manager,Team Lead
+Mid Manager,Lead
+Mid Manager,Project Manager
+Mid Manager,Coordinator
+Manager,Manager
+Manager,Senior Manager
+Manager,Team Lead
+Manager,Lead
+Manager,Project Manager
+Manager,Coordinator
